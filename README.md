@@ -8,3 +8,7 @@ Hello!
 # Python
 # Css
 # Html
+
+
+# 2021. 07. 30
+# Function
